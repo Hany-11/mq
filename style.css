@@ -62,6 +62,7 @@ footer {
 .card {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 @media (max-width: 849px) and (min-width: 650px) {
